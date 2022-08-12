@@ -1,0 +1,86 @@
+==============================
+Outdated as of 7/13/22
+==============================
+
+******************************
+//UKRAINE TIMELINE HTML BEGINS
+******************************
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name=".viewport" content="width=devoce-width, initial-scale=1">
+    <link rel="stylesheet" href="styles.css">
+    <title>Timeline of 2022 Russian Invasion of Ukraine</title>
+    <meta name="description" content="List and Description of significant events in Russia's war on Ukraine">
+  </head>
+  <body>
+    <header>
+      <a href="https://www.standwithukrainemn.com/"">
+      <img src="https://images.squarespace-cdn.com/content/v1/621ff909041cf60d6c011e46/e54a18f1-f315-4e7c-9875-28b76f3b71dd/MicrosoftTeams-image+%289%29.png?format=1500w" id="logo">
+      </a>
+      <h1 class="title">
+        Timeline of Russia's War on Ukraine
+      </h1>
+      <nav>
+        <ul>
+          <li>Search For An Event</li>
+          <li>Suggest An Event</li>
+        </ul>
+      </nav>
+    </header>
+</html>
+******************************
+//UKRAINE TIMELINE HTML ENDS
+******************************
+
+******************************
+//UKRAINE TIMELINE CSS BEGINS
+******************************
+header{
+  background-color:0057b7;
+  width:max;
+  height:200px;
+  display:flex; 
+  justify-content:space-between;
+  font-family:Helvetica;
+}
+#logo{
+  margin-left:100px;
+  margin-top:50px;
+  width:36vw;
+  height:9vw;
+  max-width: 300px;
+  max-height: 100px;
+}
+.title{
+  font-family:Helvetica;
+  color:#ffcd05;
+  text-align:center;
+  margin:auto;
+  font-size:3vw ;
+}
+nav > ul {
+  display: flex;
+	justify-content: space-evenly;
+  flex-wrap: wrap;
+	align-items: center;
+	padding-inline-start: 0;
+	margin-right:50px;
+  margin-top:auto;
+  margin-bottom:auto;
+	height: 100%;
+  font-size:1vw;
+
+}
+nav > ul > li {
+  color: #ffcd05;
+  margin: 0 0.2rem;
+	padding: 0.2rem;
+	display: block;
+  
+}
+
+******************************
+//UKRAINE TIMELINE CSS ENDS
+******************************
