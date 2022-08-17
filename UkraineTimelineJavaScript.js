@@ -2084,6 +2084,15 @@ function searchbar(){
         $('.searchbar').hide();
     });
 };
+function credits(){
+    $('.credits').show();
+    $('.credits').click(function(){
+        $('.credits').hide();
+    })
+    $('.popupCloseButton').click(function(){
+        $('.credits').hide();
+    });
+};
 
 
 
