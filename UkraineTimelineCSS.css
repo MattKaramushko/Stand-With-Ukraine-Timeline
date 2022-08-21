@@ -1,9 +1,11 @@
 /*SAVE AFTER EACH EDIT*/
-
+*{
+  margin:0;
+}
 header{
     background-color:#0057b7;
     width:100%;
-    height:35vw;
+    height:200px;
     max-height:200px;
     display:flex; 
     justify-content:space-between;
@@ -18,12 +20,13 @@ header{
     margin:0;
   }
   #logo{
-    margin-left:30%;
-    margin-top:50px;
-    width:26vw;
-    height:10vw;
+    position:relative;
+    top:33%;
+    width:13.11vw;
+    height:5vw;
     max-width: 236px;
     max-height: 90px;
+    left:20px;
   }
   
   .title{
@@ -32,10 +35,11 @@ header{
     text-align:center;
     margin:auto;
     font-size:3vw ;
+    
     justify-content: center;
     position:absolute;
     left:25%;
-    top:80px;
+    top:85px;
   }
   
   .burger>img{
@@ -43,9 +47,20 @@ header{
     top:90px;
     justify-content:space-evenly;
     margin-right:30px;
-    right:01%;
+    right:20px;
     margin-left:10px;
   }
+  @media screen and (max-width:200px){
+    .burger>img{
+
+  }
+    .title{
+
+  }
+    #logo{
+
+  }
+}
   .dropdown{
     display: none;
     position: absolute;
@@ -230,12 +245,8 @@ header{
   }
   
  
-  @media screen and (max-width:200px){
-    nav > ul{
-      font-size: x-small;
-    }
+
 /*begin popup code*/
-  }
   .popup{
     width:1000px;
     height:1000px;
