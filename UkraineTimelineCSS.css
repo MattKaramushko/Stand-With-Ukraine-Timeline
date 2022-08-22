@@ -21,12 +21,13 @@ header{
   }
   #logo{
     position:relative;
-    top:33%;
+    
     width:13.11vw;
     height:5vw;
     max-width: 236px;
     max-height: 90px;
     left:20px;
+    
   }
   
   .title{
@@ -39,7 +40,7 @@ header{
     justify-content: center;
     position:absolute;
     left:25%;
-    top:85px;
+    top:90px;
   }
   
   .burger>img{
@@ -50,16 +51,79 @@ header{
     right:20px;
     margin-left:10px;
   }
-  @media screen and (max-width:200px){
+  @media screen and (max-width:450px){/*when screen width less than 400px*/
+
     .burger>img{
+      right:15px;
 
   }
     .title{
+    
 
   }
     #logo{
 
+  }}
+  @media screen and (min-width:450px){/*when screen is 400px or wider*/
+    .burger>img{
+      right:15px;
+      
   }
+    .title{
+      
+      
+  }
+    #logo{
+      min-width:118px;
+      min-height:45px;
+      left:0px;
+      top:77.5px;
+  }
+  
+}
+@media screen and (min-width:800px){/*when screen width >= 800px*/
+  .burger>img{
+
+}
+  .title{
+    
+    top:85px;
+}
+#logo{
+  min-width:177px;
+  min-height:67.5px;
+  left:10px;
+  top:66.25px;
+}
+}
+@media screen and (min-width:1200px){/*when screen width >=1200px*/
+  .burger>img{
+    right:30px;
+
+}
+  .title{
+   
+    top:80px;
+}
+  #logo{
+    left:30px;
+    width: 236px;
+    height: 90px;
+    top:55px;
+  }
+}
+@media screen and (min-width:1600px){
+  .burger>img{
+    right:50px;
+
+}
+  .title{
+   
+    top:75px;
+}
+  #logo{
+    left:50px;
+}
 }
   .dropdown{
     display: none;
@@ -124,8 +188,10 @@ header{
     z-index: 10;
   }
   i{
+    position:absolute;
     color:white;
     font-family:helvetica;
+    top:720px;
   }
   .startnode{
     display: flex;
