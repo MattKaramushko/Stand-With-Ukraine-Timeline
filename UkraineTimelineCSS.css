@@ -385,7 +385,7 @@ h2{
   display:none;
   height:100%;
   position:fixed;
-  text-align:left;
+  text-align:center;
   top:0;
   width:100%;
   z-index:10000;
@@ -427,8 +427,9 @@ h2{
   position: relative;
   border:3px solid black;
   padding: 15px 5%;
-  left:13%;
+  
   top:20px;
+  text-align:left;
   
 }
 .theList .background{
