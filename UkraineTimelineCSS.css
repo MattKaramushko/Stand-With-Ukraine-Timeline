@@ -414,6 +414,11 @@ h2{
   vertical-align:middle;
   
 }
+blockquote{
+  justify-content:center;
+  margin:auto;
+  text-align:center;
+}
 .theList .background, .searchbar .background ,.credits .background{
   background-color: #fff;
   box-shadow: 10px 10px 60px #555;
@@ -424,6 +429,7 @@ h2{
   max-height:1000px;
   vertical-align: middle;
   width: 60%;
+  height:90%;
   position: relative;
   border:3px solid black;
   padding: 15px 5%;
@@ -463,7 +469,7 @@ h2{
 #Mar1{
   
   background-size: cover;
-  background-image:url(https://img.pravda.com/images/doc/3/4/34d81c1-melitopol.png);
+  background-image:url(https://pbs.twimg.com/media/FM00bf4XoAAtrPG?format=jpg&name=medium);
 }
 #Mar2{
   
