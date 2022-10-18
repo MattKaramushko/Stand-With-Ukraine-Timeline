@@ -2064,15 +2064,1591 @@ function sep30(){
         $('.sep30').hide();
     });
 };
-function sep31(){
-    $('.sep31').show();
-    $('.sep31').click(function(){
-        $('.sep31').hide();
+function oct1(){
+    $('.oct1').show();
+    $('.oct1').click(function(){
+        $('.oct1').hide();
     });
     $('.popupCloseButton').click(function(){
-        $('.sep31').hide();
+        $('.oct1').hide();
+    });
+};function oct2(){
+    $('.oct2').show();
+    $('.oct2').click(function(){
+        $('.oct2').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct2').hide();
     });
 };
+function oct3(){
+    $('.oct3').show();
+    $('.oct3').click(function(){
+        $('.oct3').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct3').hide();
+    });
+};
+function oct4(){
+    $('.oct4').show();
+    $('.oct4').click(function(){
+        $('.oct4').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct4').hide();
+    });
+};
+function oct5(){
+    $('.oct5').show();
+    $('.oct5').click(function(){
+        $('.oct5').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct5').hide();
+    });
+};
+function oct6(){
+    $('.oct6').show();
+    $('.oct6').click(function(){
+        $('.oct6').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct6').hide();
+    });
+};
+function oct7(){
+    $('.oct7').show();
+    $('.oct7').click(function(){
+        $('.oct7').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct7').hide();
+    });
+};
+function oct8(){
+    $('.oct8').show();
+    $('.oct8').click(function(){
+        $('.oct8').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct8').hide();
+    });
+};
+function oct9(){
+    $('.oct9').show();
+    $('.oct9').click(function(){
+        $('.oct9').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct9').hide();
+    });
+};
+function oct10(){
+    $('.oct10').show();
+    $('.oct10').click(function(){
+        $('.oct10').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct10').hide();
+    });
+};
+function oct11(){
+    $('.oct11').show();
+    $('.oct11').click(function(){
+        $('.oct11').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct11').hide();
+    });
+};
+function oct12(){
+    $('.oct12').show();
+    $('.oct12').click(function(){
+        $('.oct12').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct12').hide();
+    });
+};
+function oct13(){
+    $('.oct13').show();
+    $('.oct13').click(function(){
+        $('.oct13').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct13').hide();
+    });
+};
+function oct14(){
+    $('.oct14').show();
+    $('.oct14').click(function(){
+        $('.oct14').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct14').hide();
+    });
+};
+function oct15(){
+    $('.oct15').show();
+    $('.oct15').click(function(){
+        $('.oct15').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct15').hide();
+    });
+};
+function oct16(){
+    $('.oct16').show();
+    $('.oct16').click(function(){
+        $('.oct16').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct16').hide();
+    });
+};
+function oct17(){
+    $('.oct17').show();
+    $('.oct17').click(function(){
+        $('.oct17').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct17').hide();
+    });
+};
+function oct18(){
+    $('.oct18').show();
+    $('.oct18').click(function(){
+        $('.oct18').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct18').hide();
+    });
+};
+function oct19(){
+    $('.oct19').show();
+    $('.oct19').click(function(){
+        $('.oct19').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct19').hide();
+    });
+};
+function oct20(){
+    $('.oct20').show();
+    $('.oct20').click(function(){
+        $('.oct20').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct20').hide();
+    });
+};
+function oct21(){
+    $('.oct21').show();
+    $('.oct21').click(function(){
+        $('.oct21').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct21').hide();
+    });
+};
+function oct22(){
+    $('.oct22').show();
+    $('.oct22').click(function(){
+        $('.oct22').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct22').hide();
+    });
+};
+function oct23(){
+    $('.oct23').show();
+    $('.oct23').click(function(){
+        $('.oct23').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct23').hide();
+    });
+};
+function oct24(){
+    $('.oct24').show();
+    $('.oct24').click(function(){
+        $('.oct24').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct24').hide();
+    });
+};
+function oct25(){
+    $('.oct25').show();
+    $('.oct25').click(function(){
+        $('.oct25').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct25').hide();
+    });
+};
+function oct26(){
+    $('.oct26').show();
+    $('.oct26').click(function(){
+        $('.oct26').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct26').hide();
+    });
+};
+function oct27(){
+    $('.oct27').show();
+    $('.oct27').click(function(){
+        $('.oct27').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct27').hide();
+    });
+};
+function oct28(){
+    $('.oct28').show();
+    $('.oct28').click(function(){
+        $('.oct28').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct28').hide();
+    });
+};
+function oct29(){
+    $('.oct29').show();
+    $('.oct29').click(function(){
+        $('.oct29').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct29').hide();
+    });
+};
+function oct30(){
+    $('.oct30').show();
+    $('.oct30').click(function(){
+        $('.oct30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct30').hide();
+    });
+};
+function oct31(){
+    $('.oct31').show();
+    $('.oct31').click(function(){
+        $('.oct31').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.oct31').hide();
+    });
+};
+function nov1(){
+    $('.nov1').show();
+    $('.nov1').click(function(){
+        $('.nov1').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov1').hide();
+    });
+};
+function nov2(){
+    $('.nov2').show();
+    $('.nov2').click(function(){
+        $('.nov2').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov2').hide();
+    });
+};
+function nov(){
+    $('.nov3').show();
+    $('.nov3').click(function(){
+        $('.nov3').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov3').hide();
+    });
+};
+function nov4(){
+    $('.nov4').show();
+    $('.nov4').click(function(){
+        $('.nov4').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov4').hide();
+    });
+};
+function nov5(){
+    $('.nov5').show();
+    $('.nov5').click(function(){
+        $('.nov5').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov5').hide();
+    });
+};
+function nov6(){
+    $('.nov6').show();
+    $('.nov6').click(function(){
+        $('.nov6').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov6').hide();
+    });
+};
+function nov7(){
+    $('.nov7').show();
+    $('.nov7').click(function(){
+        $('.nov7').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov7').hide();
+    });
+};
+function nov8(){
+    $('.nov8').show();
+    $('.nov8').click(function(){
+        $('.nov8').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov8').hide();
+    });
+};
+function nov9(){
+    $('.nov9').show();
+    $('.nov9').click(function(){
+        $('.nov9').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov9').hide();
+    });
+};
+function nov10(){
+    $('.nov10').show();
+    $('.nov10').click(function(){
+        $('.nov10').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov10').hide();
+    });
+};
+function nov11(){
+    $('.nov11').show();
+    $('.nov11').click(function(){
+        $('.nov11').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov11').hide();
+    });
+};
+function nov12(){
+    $('.nov12').show();
+    $('.nov12').click(function(){
+        $('.nov12').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov12').hide();
+    });
+};
+function nov13(){
+    $('.nov13').show();
+    $('.nov13').click(function(){
+        $('.nov13').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov13').hide();
+    });
+};
+function nov14(){
+    $('.nov14').show();
+    $('.nov14').click(function(){
+        $('.nov14').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov14').hide();
+    });
+};
+function nov15(){
+    $('.nov15').show();
+    $('.nov15').click(function(){
+        $('.nov15').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov15').hide();
+    });
+};
+function nov16(){
+    $('.nov16').show();
+    $('.nov16').click(function(){
+        $('.nov16').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov16').hide();
+    });
+};
+function nov17(){
+    $('.nov17').show();
+    $('.nov17').click(function(){
+        $('.nov17').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov17').hide();
+    });
+};
+function nov18(){
+    $('.nov18').show();
+    $('.nov18').click(function(){
+        $('.nov18').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov18').hide();
+    });
+};
+function nov19(){
+    $('.nov19').show();
+    $('.nov19').click(function(){
+        $('.nov19').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov19').hide();
+    });
+};
+function nov20(){
+    $('.nov20').show();
+    $('.nov20').click(function(){
+        $('.nov20').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov20').hide();
+    });
+};
+function nov21(){
+    $('.nov21').show();
+    $('.nov21').click(function(){
+        $('.nov21').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov21').hide();
+    });
+};
+function nov22(){
+    $('.nov22').show();
+    $('.nov22').click(function(){
+        $('.nov22').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov22').hide();
+    });
+};
+function nov23(){
+    $('.nov23').show();
+    $('.nov23').click(function(){
+        $('.nov23').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov23').hide();
+    });
+};
+function nov24(){
+    $('.nov24').show();
+    $('.nov24').click(function(){
+        $('.nov24').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov24').hide();
+    });
+};
+function nov25(){
+    $('.nov25').show();
+    $('.nov25').click(function(){
+        $('.nov25').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov25').hide();
+    });
+};
+function nov26(){
+    $('.nov26').show();
+    $('.nov26').click(function(){
+        $('.nov26').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov26').hide();
+    });
+};
+function nov27(){
+    $('.nov27').show();
+    $('.nov27').click(function(){
+        $('.nov27').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov27').hide();
+    });
+};
+function nov28(){
+    $('.nov28').show();
+    $('.nov28').click(function(){
+        $('.nov28').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov28').hide();
+    });
+};
+function nov29(){
+    $('.nov29').show();
+    $('.nov29').click(function(){
+        $('.nov29').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov29').hide();
+    });
+};
+function nov30(){
+    $('.nov30').show();
+    $('.nov30').click(function(){
+        $('.nov30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.nov30').hide();
+    });
+};
+function dec1(){
+    $('.dec1').show();
+    $('.dec1').click(function(){
+        $('.dec1').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec1').hide();
+    });
+};
+function dec2(){
+    $('.dec2').show();
+    $('.dec2').click(function(){
+        $('.dec2').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec2').hide();
+    });
+};
+function dec3(){
+    $('.dec3').show();
+    $('.dec3').click(function(){
+        $('.dec3').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec3').hide();
+    });
+};
+function dec4(){
+    $('.dec4').show();
+    $('.dec4').click(function(){
+        $('.dec4').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec4').hide();
+    });
+};
+function dec5(){
+    $('.dec5').show();
+    $('.dec5').click(function(){
+        $('.dec5').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec5').hide();
+    });
+};
+function dec6(){
+    $('.dec6').show();
+    $('.dec6').click(function(){
+        $('.dec6').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec6').hide();
+    });
+};
+function dec7(){
+    $('.dec7').show();
+    $('.dec7').click(function(){
+        $('.dec7').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec7').hide();
+    });
+};
+function dec8(){
+    $('.dec8').show();
+    $('.dec8').click(function(){
+        $('.dec8').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec8').hide();
+    });
+};
+function dec9(){
+    $('.dec9').show();
+    $('.dec9').click(function(){
+        $('.dec9').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec9').hide();
+    });
+};
+function dec10(){
+    $('.dec10').show();
+    $('.dec10').click(function(){
+        $('.dec10').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec10').hide();
+    });
+};
+function dec11(){
+    $('.dec11').show();
+    $('.dec11').click(function(){
+        $('.dec11').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec11').hide();
+    });
+};
+function dec12(){
+    $('.dec12').show();
+    $('.dec12').click(function(){
+        $('.dec12').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec12').hide();
+    });
+};
+function dec13(){
+    $('.dec13').show();
+    $('.dec13').click(function(){
+        $('.dec13').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec13').hide();
+    });
+};
+function dec14(){
+    $('.dec14').show();
+    $('.dec14').click(function(){
+        $('.dec14').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec14').hide();
+    });
+};
+function dec15(){
+    $('.dec15').show();
+    $('.dec15').click(function(){
+        $('.dec15').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec15').hide();
+    });
+};
+function dec16(){
+    $('.dec16').show();
+    $('.dec16').click(function(){
+        $('.dec16').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec16').hide();
+    });
+};
+function dec17(){
+    $('.dec17').show();
+    $('.dec17').click(function(){
+        $('.dec17').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec17').hide();
+    });
+};
+function dec19(){
+    $('.dec19').show();
+    $('.dec19').click(function(){
+        $('.dec19').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec19').hide();
+    });
+};
+function dec18(){
+    $('.dec18').show();
+    $('.dec18').click(function(){
+        $('.dec18').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec18').hide();
+    });
+};
+function dec20(){
+    $('.dec20').show();
+    $('.dec20').click(function(){
+        $('.dec20').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec20').hide();
+    });
+};
+function dec21(){
+    $('.dec21').show();
+    $('.dec21').click(function(){
+        $('.dec21').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec21').hide();
+    });
+};
+function dec22(){
+    $('.dec22').show();
+    $('.dec22').click(function(){
+        $('.dec22').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec22').hide();
+    });
+};
+function dec23(){
+    $('.dec23').show();
+    $('.dec23').click(function(){
+        $('.dec23').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec23').hide();
+    });
+};
+function dec24(){
+    $('.dec24').show();
+    $('.dec24').click(function(){
+        $('.dec24').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec24').hide();
+    });
+};
+function dec25(){
+    $('.dec25').show();
+    $('.dec25').click(function(){
+        $('.dec25').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec25').hide();
+    });
+};
+function dec26(){
+    $('.dec26').show();
+    $('.dec26').click(function(){
+        $('.dec26').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec26').hide();
+    });
+};
+function dec27(){
+    $('.dec27').show();
+    $('.dec27').click(function(){
+        $('.dec27').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec27').hide();
+    });
+};
+function dec28(){
+    $('.dec28').show();
+    $('.dec28').click(function(){
+        $('.dec28').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec28').hide();
+    });
+};
+function dec29(){
+    $('.dec29').show();
+    $('.dec29').click(function(){
+        $('.dec29').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec29').hide();
+    });
+};
+function dec30(){
+    $('.dec30').show();
+    $('.dec30').click(function(){
+        $('.dec30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.dec30').hide();
+    });
+};
+/*function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+function sep30(){
+    $('.sep30').show();
+    $('.sep30').click(function(){
+        $('.sep30').hide();
+    });
+    $('.popupCloseButton').click(function(){
+        $('.sep30').hide();
+    });
+};
+
+
 //for the love of god please find a better way to do this
 /*non-date popups begin here*/
 function searchbar(){
