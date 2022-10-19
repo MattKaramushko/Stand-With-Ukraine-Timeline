@@ -403,13 +403,13 @@ h2{
   display:none;
   height:100%;
   position:fixed;
-  text-align:left;
+  text-align:center;
   top:25%;
   width:100%;
   z-index:10000;
   font-family: Helvetica;
   justify-self: center;
-  right:120px;
+  
 }
 .helper{
   display:inline-block;
@@ -598,7 +598,7 @@ blockquote{
   background-size: cover;
   
 }#Apr1{
-  
+  background-image:url(images/22418088_0.jpg);
   background-size: cover;
   
 }#Apr2{
