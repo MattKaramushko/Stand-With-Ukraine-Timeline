@@ -329,6 +329,15 @@ header{
     margin-left:auto;
     margin-right:auto;
   }
+  .image2{
+    width:800px;
+    height:500px;
+    object-fit:scale-down;
+    left:25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
   iframe{
     margin-left:auto;
     margin-right:auto;
@@ -482,27 +491,27 @@ blockquote{
 #Mar3{
   
   background-size: cover;
-  
+  background-image:url(http://videos.usatoday.net/Brightcove2/29906170001/2014/03/29906170001_3283138601001_vs-5313e569e4b0dd6b84ddc52d-1592194014001.jpg?pubId=29906170001&quality=80&auto=webp&height=1800&width=3200&fit=crop&crop=3200%2C1800);
 }
 #Mar4{
   
   background-size: cover;
-  
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/2/2a/IAEA_Support_and_Assistance_Mission_to_Zaporizhzhya_%28zap001%29_%2852329096480%29.jpg);
 }
 #Mar5{
   
   background-size: cover;
-  
+  background-image:url(https://www.aljazeera.com/wp-content/uploads/2022/02/DSC9502.jpg?resize=770%2C513);
 }#Mar6{
   
   background-size: cover;
-  
+  background-image:url(https://static.timesofisrael.com/www/uploads/2022/03/AP22067449472905-1.jpg);
 }#Mar7{
   
   background-size: cover;
-  
+  background-image:url(https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Battle_of_Hostomel%2C_04.03.2021%2C_Skirmish_Aftermath_%28cropped%29.jpg/1920px-Battle_of_Hostomel%2C_04.03.2021%2C_Skirmish_Aftermath_%28cropped%29.jpg);
 }#Mar8{
-  
+  background-image:url(images/chocolatechocolatechip.PNG);
   background-size: cover;
   
 }#Mar9{
