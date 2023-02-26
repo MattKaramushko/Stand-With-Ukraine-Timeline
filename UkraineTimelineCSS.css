@@ -338,6 +338,15 @@ header{
     margin-left:auto;
     margin-right:auto;
   }
+  .image3{
+    width:500px;
+    height:500px;
+    object-fit:cover;
+    left:25%;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+  }
   iframe{
     margin-left:auto;
     margin-right:auto;
@@ -648,11 +657,11 @@ blockquote{
   background-size: cover;
   
 }#Apr11{
-  
+  background-image:url(https://th.bing.com/th/id/R.68964f4e46c08f246f5ff3f5a2159b9c?rik=sdgFdpDFV6LXGA&pid=ImgRaw&r=0);
   background-size: cover;
   
 }#Apr12{
-  
+  background-image:url(images/bidome.png);
   background-size: cover;
   
 }#Apr13{
